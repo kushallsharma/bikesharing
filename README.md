@@ -11,7 +11,7 @@ The purpose of this project is to analyse Citi Bike data using Tableau to make s
 A detailed analysis was performed on the Citi Bike data and story line of the analysis is available at below link. The dashboards are interactive and can be used to further drill down the analysis and understand more granularity of the data. 
 
 
-[Link to Tableau Story](#https://public.tableau.com/profile/kushal.sharma3268#!/vizhome/BikeTrip-Analysis-Challenge/BikeRideAnalysis)
+[Link to Tableau Story](https://public.tableau.com/profile/kushal.sharma3268#!/vizhome/BikeTrip-Analysis-Challenge/BikeRideAnalysis)
 
 
 
