@@ -1,4 +1,4 @@
-# NYC Nike Sharing Analysis
+# NYC Bike Sharing Analysis
 
 ## Overview 
 The project is to understand NYC bike sharing program, so as to pitch a new business for bike sharing in Des Moines to investors. The analysis is done on the August month data available on Citi Bike system page online using Tableau.
